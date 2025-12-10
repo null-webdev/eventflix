@@ -1,0 +1,7 @@
+GET http://localhost:5000/api/bookings
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MzhjMDI3ZWQwMDJiZGQ3ZmRlODE2ZSIsImVtYWlsIjoiZXZlbnRmbGl4ODc5QGdtYWlsLmNvbSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc2NTM2NjMwNSwiZXhwIjoxNzY1MzY5OTA1fQ.YARV55n2lHMPvIkKTcS7CYaXT5S3JljL4UwNZsmsCoU
+
+This is how much EventFlix folder looks like:
+
+Frontend:
+    
